@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4fcf469e0cd79968",
+        "id": "91ddc3a6b540df37",
         "type": "tabs",
         "children": [
           {
-            "id": "45fbbdb813e28509",
+            "id": "1bdc4242fb279c90",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
+                "file": "University/Конспекты лекций/САиММод/Имитация, исследование и контроль случайных воздействий.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University/Конспекты лекций/САиММод/Имитация, исследование и контроль случайных воздействий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University/Конспекты лекций/САиММод/Имитация, исследование и контроль случайных воздействий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University/Конспекты лекций/САиММод/Имитация, исследование и контроль случайных воздействий.md"
+              }
             }
           }
         ],
@@ -161,11 +166,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "45fbbdb813e28509",
+  "active": "1f8519feaeb317fa",
   "lastOpenFiles": [
+    "Untitled.md",
     "University/Конспекты лекций/САиММод/Имитация, исследование и контроль случайных воздействий.md",
     "University/Конспекты лекций/САиММод/Untitled.md",
-    "Untitled.md",
     "University/Конспекты лекций/САиММод",
     "Материалы",
     "Заметки",
