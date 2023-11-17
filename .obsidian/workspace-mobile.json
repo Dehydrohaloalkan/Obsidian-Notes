@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "d95a89a8d3380b39",
+    "type": "split",
+    "children": [
+      {
+        "id": "99844342a6c5da7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27561bcff3468a35",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea21385bcc4a0393",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d6be8ed35ad5d4b6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1f69e31df64a81be",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "86e49b163b1d53ce",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5e5eb90f00f28a60",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "059cd63e37ac5824",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0c6b8cd19fac3d95",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "21f5820b35b1c5ea",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "72a2dc06c458676a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "27561bcff3468a35",
+  "lastOpenFiles": [
+    "Тест соединения.md",
+    "Untitled.sync-conflict-20231117-160453-FAK6PJZ.md",
+    "Untitled.md",
+    "1679043465183.jpg",
+    "![[1627235658_11-kartinkin-com-p-kometa-iz-anime-tvoe-imya-anime-krasivo-13.jpg.md",
+    "1627235658_11-kartinkin-com-p-kometa-iz-anime-tvoe-imya-anime-krasivo-13.jpg"
+  ]
+}

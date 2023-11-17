@@ -1,0 +1,40 @@
+{
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "shortcuts-extender:heading-1": [],
+  "shortcuts-extender:heading-2": [],
+  "shortcuts-extender:heading-3": [],
+  "shortcuts-extender:heading-4": [],
+  "shortcuts-extender:heading-5": [],
+  "shortcuts-extender:heading-6": [],
+  "theme:use-dark": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "theme:use-light": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "shortcuts-extender:shortcut-code-block": []
+}
