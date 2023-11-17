@@ -11,8 +11,12 @@
             "id": "27561bcff3468a35",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "University/Конспекты лекций/САиММод/Имитация, исследование и контроль случайных воздействий.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "University/Конспекты лекций/САиММод/Имитация, исследование и контроль случайных воздействий.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "University/Конспекты лекций/САиММод/Имитация, исследование и контроль случайных воздействий.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "University/Конспекты лекций/САиММод/Имитация, исследование и контроль случайных воздействий.md"
+          }
         }
       }
     ],
@@ -128,6 +136,10 @@
   },
   "active": "27561bcff3468a35",
   "lastOpenFiles": [
+    "University/Конспекты лекций/САиММод/Имитация, исследование и контроль случайных воздействий.md",
+    "University/Конспекты лекций/САиММод",
+    "University/Конспекты лекций",
+    "University",
     "Тест соединения.md",
     "Untitled.sync-conflict-20231117-160453-FAK6PJZ.md",
     "Untitled.md",
