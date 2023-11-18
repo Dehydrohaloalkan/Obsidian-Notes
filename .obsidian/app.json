@@ -1,4 +1,10 @@
 {
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "spellcheckDictionary": [
+    "программ-имитаторов",
+    "Методоориентированные",
+    "Проблемноориентированные",
+    "Методоориентированный"
+  ]
 }
