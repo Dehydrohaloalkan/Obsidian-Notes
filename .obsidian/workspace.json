@@ -11,11 +11,10 @@
             "id": "1bdc4242fb279c90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "University/Конспекты лекций/САиММод/Языки и системы моделирования.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/app.json",
+                "staged": false
               }
             }
           },
@@ -93,7 +92,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -113,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Конспекты лекций/САиММод/Языки и системы моделирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Конспекты лекций/САиММод/Языки и системы моделирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "University/Конспекты лекций/САиММод/Языки и системы моделирования.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -180,8 +176,8 @@
   },
   "active": "1bdc4242fb279c90",
   "lastOpenFiles": [
-    "University/Конспекты лекций/САиММод/Имитация, исследование и контроль случайных воздействий.md",
     "University/Конспекты лекций/САиММод/Языки и системы моделирования.md",
+    "University/Конспекты лекций/САиММод/Имитация, исследование и контроль случайных воздействий.md",
     "Untitled.md",
     "University/Конспекты лекций/САиММод",
     "Материалы",
