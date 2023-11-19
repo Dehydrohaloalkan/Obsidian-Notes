@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересности/Обсидиан.md",
+                "file": "Тест.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c6788c7e29deb5ae",
+            "id": "5519c8b5cdf7abdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересности/Обсидиан.md",
+                "file": "University/САиММод/Обобщенный список.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересности/Обсидиан.md",
+                "file": "University/САиММод/Обобщенный список.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересности/Обсидиан.md"
+                "file": "University/САиММод/Обобщенный список.md"
               }
             }
           }
@@ -178,18 +179,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dc1bb2625b60d40f",
+  "active": "5519c8b5cdf7abdc",
   "lastOpenFiles": [
-    "University/АКГ/Лабораторные работы.pdf",
-    "Интересности/Обсидиан.md",
-    "Интересности",
+    "University/САиММод/Untitled.canvas",
     "University/САиММод/Обобщенный список.md",
-    "Тест.md",
-    "University/АКГ",
-    "University/Unconfirmed 706977.crdownload",
     "University/САиММод/Лекции/Языки и системы моделирования.md",
     "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
+    "University/АКГ/Лабораторные работы.pdf",
     "Templates/Лекция.md",
+    "Тест.md",
+    "Интересности/Обсидиан.md",
+    "Интересности",
+    "University/АКГ",
+    "University/Unconfirmed 706977.crdownload",
     "Templates",
     "2023-11-18.md",
     "University/САиММод/Лекции",
