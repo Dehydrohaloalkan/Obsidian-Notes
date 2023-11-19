@@ -37,7 +37,7 @@
   "anuppuccin-theme-settings@@anp-floating-header": true,
   "anuppuccin-theme-settings@@anp-collapse-folders": true,
   "anuppuccin-theme-settings@@anp-file-label-align": "1",
-  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": false,
+  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": true,
   "anuppuccin-theme-settings@@anp-pdf-blend-toggle-light": false,
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false,

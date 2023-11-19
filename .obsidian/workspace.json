@@ -8,23 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bdc4242fb279c90",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
-              }
-            }
-          },
-          {
             "id": "dc1bb2625b60d40f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Конспекты лекций/САиММод/Имитация, исследование и контроль случайных воздействий.md",
+                "file": "Интересности/Обсидиан.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6788c7e29deb5ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/САиММод/Обобщенный список.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Интересности/Обсидиан.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Интересности/Обсидиан.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Интересности/Обсидиан.md"
+              }
             }
           }
         ],
@@ -174,17 +178,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1bdc4242fb279c90",
+  "active": "dc1bb2625b60d40f",
   "lastOpenFiles": [
-    "University/Конспекты лекций/САиММод/Языки и системы моделирования.md",
-    "University/Конспекты лекций/САиММод/Имитация, исследование и контроль случайных воздействий.md",
-    "Untitled.md",
-    "University/Конспекты лекций/САиММод",
+    "University/АКГ/Лабораторные работы.pdf",
+    "Интересности/Обсидиан.md",
+    "Интересности",
+    "University/САиММод/Обобщенный список.md",
+    "Тест.md",
+    "University/АКГ",
+    "University/Unconfirmed 706977.crdownload",
+    "University/САиММод/Лекции/Языки и системы моделирования.md",
+    "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
+    "Templates/Лекция.md",
+    "Templates",
+    "2023-11-18.md",
+    "University/САиММод/Лекции",
+    "University/САиММод",
     "Материалы",
     "Заметки",
     "University/Конспекты лекций",
-    "University",
-    "~syncthing~Untitled.md.tmp",
     "Тест соединения.sync-conflict-20231117-154405-FAK6PJZ.md",
     "Тест соединения.md",
     "Красивая картинка.jpg",
@@ -195,10 +207,6 @@
     "sdfsdf.jpg",
     "20230908_183940.jpg",
     "20230906_175142.jpg",
-    "~syncthing~Untitled.sync-conflict-20231117-160453-FAK6PJZ.md.tmp",
-    "~syncthing~Untitled.sync-conflict-20231117-154443-FAK6PJZ.md.tmp",
-    "~syncthing~Тест соединения.sync-conflict-20231117-154405-FAK6PJZ.md.tmp",
-    "~syncthing~Untitled.sync-conflict-20231117-152712-FAK6PJZ.md.tmp",
     "![[1627235658_11-kartinkin-com-p-kometa-iz-anime-tvoe-imya-anime-krasivo-13.jpg.md"
   ]
 }
