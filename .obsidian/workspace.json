@@ -11,21 +11,19 @@
             "id": "dc1bb2625b60d40f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Тест.md",
-                "mode": "source",
-                "source": false
+                "file": "Telegram/photos/photo_16046_3 - 20231120174806097.jpg"
               }
             }
           },
           {
-            "id": "5519c8b5cdf7abdc",
+            "id": "92667a1aa279212f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/САиММод/Обобщенный список.md",
+                "file": "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/САиММод/Обобщенный список.md",
+                "file": "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/САиММод/Обобщенный список.md",
+                "file": "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/САиММод/Обобщенный список.md"
+                "file": "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md"
               }
             }
           }
@@ -174,21 +172,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5519c8b5cdf7abdc",
+  "active": "92667a1aa279212f",
   "lastOpenFiles": [
-    "University/САиММод/Untitled.canvas",
-    "University/САиММод/Обобщенный список.md",
     "University/САиММод/Лекции/Языки и системы моделирования.md",
-    "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
-    "University/АКГ/Лабораторные работы.pdf",
-    "Templates/Лекция.md",
-    "Тест.md",
+    "Telegram/_Inbox_.md",
+    "Telegram/photos/photo_16046_3 - 20231120174806097.jpg",
     "Интересности/Обсидиан.md",
+    "Telegram/Message Template.md",
+    "Тест.md",
+    "Telegram/photos/photo_16046_2 - 20231119214450829.jpg",
+    "Templates/Лекция.md",
+    "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
+    "Telegram/photos/photo_16046_1 - 20231119205408415.jpg",
+    "Telegram/photos/photo_16046_0 - 20231119205408693.jpg",
+    "Telegram/photos",
+    "Telegram",
+    "Untitled",
+    "University/САиММод/Обобщенный список.md",
+    "University/САиММод/Untitled.canvas",
+    "University/АКГ/Лабораторные работы.pdf",
     "Интересности",
     "University/АКГ",
     "University/Unconfirmed 706977.crdownload",
@@ -196,9 +203,6 @@
     "2023-11-18.md",
     "University/САиММод/Лекции",
     "University/САиММод",
-    "Материалы",
-    "Заметки",
-    "University/Конспекты лекций",
     "Тест соединения.sync-conflict-20231117-154405-FAK6PJZ.md",
     "Тест соединения.md",
     "Красивая картинка.jpg",
