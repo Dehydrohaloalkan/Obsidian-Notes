@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,8 +167,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57dae0192a197ab0",
+  "active": "1f8519feaeb317fa",
   "lastOpenFiles": [
+    "New Текстовый документ.txt",
     "University/ЦОС/Z -1 Преобразование.md",
     "University/ЦОС/Вопросы на цосик любименький.md",
     "University/ЦОС/Преобразование Фурье.md",
