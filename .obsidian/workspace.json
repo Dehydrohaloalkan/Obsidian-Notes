@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "91ddc3a6b540df37",
+        "id": "0f654e9c22f7d3f8",
         "type": "tabs",
         "children": [
           {
-            "id": "dc1bb2625b60d40f",
+            "id": "57dae0192a197ab0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Telegram/photos/photo_16046_3 - 20231120174806097.jpg"
-              }
-            }
-          },
-          {
-            "id": "92667a1aa279212f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "University/АКГ/Лабораторные работы.pdf"
+                "file": "University/ЦОС/Вейвлет преобразование.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telegram/photos/photo_16046_3 - 20231120174806097.jpg",
+                "file": "University/ЦОС/Вейвлет преобразование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telegram/photos/photo_16046_3 - 20231120174806097.jpg",
+                "file": "University/ЦОС/Вейвлет преобразование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telegram/photos/photo_16046_3 - 20231120174806097.jpg"
+                "file": "University/ЦОС/Вейвлет преобразование.md"
               }
             }
           }
@@ -175,11 +166,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "660f7a6cab4aa4bb",
+  "active": "57dae0192a197ab0",
   "lastOpenFiles": [
-    "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
+    "University/ЦОС/Z -1 Преобразование.md",
+    "University/ЦОС/Вопросы на цосик любименький.md",
+    "University/ЦОС/Преобразование Фурье.md",
+    "University/АКГ/Untitled.md",
+    "University/САиММод/Обобщенный список.md",
     "University/САиММод/Лекции/Языки и системы моделирования.md",
+    "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
+    "University/ЦОС/Вейвлет преобразование.md",
+    "Telegram/photos/photo_16046_4 - 20231129161413232.jpg",
+    "University/ЦОС/Шкала Децибел.md",
+    "University/ЦОС/Вопросы",
     "Telegram/_Inbox_.md",
+    "University/ЦОС",
+    "Telegram/photos/photo_16046_5 - 20231129161413357.jpg",
     "Telegram/photos/photo_16046_3 - 20231120174806097.jpg",
     "Интересности/Обсидиан.md",
     "Telegram/Message Template.md",
@@ -191,7 +193,6 @@
     "Telegram/photos",
     "Telegram",
     "Untitled",
-    "University/САиММод/Обобщенный список.md",
     "University/САиММод/Untitled.canvas",
     "University/АКГ/Лабораторные работы.pdf",
     "Интересности",
@@ -199,8 +200,6 @@
     "University/Unconfirmed 706977.crdownload",
     "Templates",
     "2023-11-18.md",
-    "University/САиММод/Лекции",
-    "University/САиММод",
     "Тест соединения.sync-conflict-20231117-154405-FAK6PJZ.md",
     "Тест соединения.md",
     "Красивая картинка.jpg",
@@ -210,7 +209,6 @@
     "20230908_183734.jpg",
     "sdfsdf.jpg",
     "20230908_183940.jpg",
-    "20230906_175142.jpg",
     "![[1627235658_11-kartinkin-com-p-kometa-iz-anime-tvoe-imya-anime-krasivo-13.jpg.md"
   ]
 }
