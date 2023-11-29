@@ -21,11 +21,9 @@
             "id": "92667a1aa279212f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
-                "mode": "source",
-                "source": false
+                "file": "University/АКГ/Лабораторные работы.pdf"
               }
             }
           }
@@ -112,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
+                "file": "Telegram/photos/photo_16046_3 - 20231120174806097.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
+                "file": "Telegram/photos/photo_16046_3 - 20231120174806097.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md"
+                "file": "Telegram/photos/photo_16046_3 - 20231120174806097.jpg"
               }
             }
           }
@@ -177,8 +175,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92667a1aa279212f",
+  "active": "660f7a6cab4aa4bb",
   "lastOpenFiles": [
+    "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
     "University/САиММод/Лекции/Языки и системы моделирования.md",
     "Telegram/_Inbox_.md",
     "Telegram/photos/photo_16046_3 - 20231120174806097.jpg",
@@ -187,7 +186,6 @@
     "Тест.md",
     "Telegram/photos/photo_16046_2 - 20231119214450829.jpg",
     "Templates/Лекция.md",
-    "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
     "Telegram/photos/photo_16046_1 - 20231119205408415.jpg",
     "Telegram/photos/photo_16046_0 - 20231119205408693.jpg",
     "Telegram/photos",
