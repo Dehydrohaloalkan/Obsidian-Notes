@@ -11,8 +11,12 @@
             "id": "57dae0192a197ab0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "University/ПОВС/ПОВС (Программное обеспечение встроенных систем).md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -109,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University/ПОВС/ПОВС (Программное обеспечение встроенных систем).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University/ПОВС/ПОВС (Программное обеспечение встроенных систем).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University/ПОВС/ПОВС (Программное обеспечение встроенных систем).md"
+              }
             }
           }
         ],
@@ -173,6 +181,13 @@
   },
   "active": "57dae0192a197ab0",
   "lastOpenFiles": [
+    "University/ЦОС/Шкала Децибел.md",
+    "University/ЦОС/Z -1 Преобразование.md",
+    "University/ЦОС/Вейвлет преобразование.md",
+    "University/ЦОС/Вопросы на цосик любименький.md",
+    "University/ЦОС/Корреляция.md",
+    "University/ЦОС/Модуляция.md",
+    "University/ЦОС/Преобразование Фурье.md",
     "University/ЦОС/ЦОС (Цифровая обработка сигналов).md",
     "University/ПОВС/ПОВС (Программное обеспечение встроенных систем).md",
     "University/ПОВС/Картинки/20230901_182239.jpg",
@@ -196,18 +211,11 @@
     "IMG_4337.heic",
     "IMG_4336.heic",
     "IMG_4335.heic",
-    "University/ЦОС/Модуляция.md",
     "Интересности/Обсидиан.md",
-    "University/ЦОС/Корреляция.md",
-    "University/ЦОС/Вопросы на цосик любименький.md",
-    "University/ЦОС/Вейвлет преобразование.md",
-    "University/ЦОС/Z -1 Преобразование.md",
-    "University/ЦОС/Преобразование Фурье.md",
     "University/АКГ/Untitled.md",
     "University/САиММод/Обобщенный список.md",
     "University/САиММод/Лекции/Языки и системы моделирования.md",
     "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
-    "University/ЦОС/Шкала Децибел.md",
     "Telegram/Message Template.md",
     "Тест.md",
     "Templates/Лекция.md",
