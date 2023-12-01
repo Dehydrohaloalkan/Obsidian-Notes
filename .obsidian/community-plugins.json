@@ -11,5 +11,6 @@
   "shortcuts-extender",
   "text-extractor",
   "obsidian-git",
-  "telegram-sync"
+  "telegram-sync",
+  "obsidian-importer"
 ]
