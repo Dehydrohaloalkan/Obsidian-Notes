@@ -63,3 +63,12 @@
 >![[Корреляция формулы.jpg]]
 >
 >
+
+***
+
+>[!Abstract]- ... Дата: 2023-12-02 | Время: 13:38:51
+>**Forwarded from [Alex Bondar](https://t.me/Dehydrohaloalkan)**
+>
+>![[photo_16046_12 - 20231202133851150.jpg]]
+>
+>

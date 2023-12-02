@@ -4,32 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "0f654e9c22f7d3f8",
+        "id": "a6f495dac6ebdf29",
         "type": "tabs",
         "children": [
           {
-            "id": "57dae0192a197ab0",
+            "id": "5ea2c13f820f70d8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "University/АКГ/Лабораторные работы.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "166aec91326b81d8",
+            "id": "1397a784d0a51d91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/ЦОС/Модуляция.md",
+                "file": "University/ЦОС/1. Темы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bf6f185cb89475d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-02 16.18.40.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "9fae629ad753f367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Заметки/Задачи по физике.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df1136a0925d4582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Заметки/Задачи по физике.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/АКГ/Лабораторные работы.pdf",
+                "file": "Заметки/Задачи по физике.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/АКГ/Лабораторные работы.pdf",
+                "file": "Заметки/Задачи по физике.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/АКГ/Лабораторные работы.pdf"
+                "file": "Заметки/Задачи по физике.md"
               }
             }
           }
@@ -160,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288,
-    "collapsed": true
+    "width": 288
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,53 +209,54 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "57dae0192a197ab0",
+  "active": "df1136a0925d4582",
   "lastOpenFiles": [
+    "Заметки/Pasted image 20231202170137.png",
+    "Заметки/Задачи по физике.md",
+    "Заметки",
+    "Excalidraw/Drawing 2023-12-02 16.18.40.excalidraw.md",
+    "University/ЦОС/1. Темы.md",
+    "Pasted Image 20231202133358_257.jpg",
+    "University/САиММод/1. Темы.md",
+    "University/САиММод/Языки и системы моделирования.md",
+    "University/САиММод/Имитация, исследование и контроль случайных воздействий.md",
+    "Telegram/photos/photo_16046_12 - 20231202133851150.jpg",
+    "Telegram/photos/photo_16046_4 - 20231129161413232.jpg",
+    "Telegram/photos/photo_16046_5 - 20231129161413357.jpg",
+    "Telegram/_Inbox_.md",
+    "Excalidraw/Drawing 2023-12-02 13.32.07.excalidraw.md",
+    "University/АКГ/Лабораторные работы.pdf",
+    "Excalidraw/Untitled.canvas",
+    "Excalidraw",
+    "Тест.md",
+    "University/ЦОС/Z -1 Преобразование.md",
+    "University/САиММод/Последнее занятие.md",
+    "University/ЦОС/ЦОС (Цифровая обработка сигналов).md",
     "University/ПОВС/ПОВС (Программное обеспечение встроенных систем).md",
     "University/ЦОС/Шкала Децибел.md",
-    "University/ЦОС/Z -1 Преобразование.md",
     "University/ЦОС/Вейвлет преобразование.md",
-    "University/ЦОС/Вопросы на цосик любименький.md",
     "University/ЦОС/Корреляция.md",
     "University/ЦОС/Модуляция.md",
     "University/ЦОС/Преобразование Фурье.md",
-    "University/ЦОС/ЦОС (Цифровая обработка сигналов).md",
     "University/ПОВС/Картинки/20230901_182239.jpg",
-    "Telegram/_Inbox_.md",
     "University/ПОВС/Картинки/20231110_173945.jpg",
     "University/ПОВС/Картинки/IMG_4321.jpeg",
     "University/ПОВС/Картинки/20231106_201726.jpg",
     "University/ПОВС/Картинки/20231106_200921.jpg",
-    "University/ПОВС/Картинки/20231106_200411.jpg",
-    "University/ПОВС/Картинки/20231106_195529.jpg",
-    "University/ПОВС/Картинки/20231106_194333.jpg",
-    "University/ПОВС/Картинки/20231106_193233.jpg",
-    "University/ПОВС/Картинки/20231106_192602.jpg",
     "IMG_4194.heic",
     "Notion/ПОВС (Программное обеспечение встроенных систем)",
     "Notion",
     "University/ПОВС/Картинки",
     "University/ПОВС",
-    "University/АКГ/Лабораторные работы.pdf",
     "IMG_4339.heic",
     "IMG_4337.heic",
-    "IMG_4336.heic",
-    "IMG_4335.heic",
     "Интересности/Обсидиан.md",
     "University/АКГ/Untitled.md",
-    "University/САиММод/Обобщенный список.md",
-    "University/САиММод/Лекции/Языки и системы моделирования.md",
-    "University/САиММод/Лекции/Имитация, исследование и контроль случайных воздействий.md",
     "Telegram/Message Template.md",
-    "Тест.md",
     "Templates/Лекция.md",
     "University/САиММод/Untitled.canvas",
     "2023-11-18.md",
     "Тест соединения.sync-conflict-20231117-154405-FAK6PJZ.md",
-    "Тест соединения.md",
-    "Untitled.sync-conflict-20231117-160453-FAK6PJZ.md",
-    "Untitled.sync-conflict-20231117-154443-FAK6PJZ.md",
-    "Untitled.sync-conflict-20231117-152712-FAK6PJZ.md",
-    "![[1627235658_11-kartinkin-com-p-kometa-iz-anime-tvoe-imya-anime-krasivo-13.jpg.md"
+    "Тест соединения.md"
   ]
 }

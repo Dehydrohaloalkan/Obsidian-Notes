@@ -12,5 +12,6 @@
   "text-extractor",
   "obsidian-git",
   "telegram-sync",
-  "obsidian-importer"
+  "obsidian-importer",
+  "obsidian-smart-typography"
 ]
