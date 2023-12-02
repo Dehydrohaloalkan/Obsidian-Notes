@@ -11,11 +11,9 @@
             "id": "57dae0192a197ab0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "University/ПОВС/ПОВС (Программное обеспечение встроенных систем).md",
-                "mode": "source",
-                "source": false
+                "file": "University/АКГ/Лабораторные работы.pdf"
               }
             }
           },
@@ -113,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/ПОВС/ПОВС (Программное обеспечение встроенных систем).md",
+                "file": "University/АКГ/Лабораторные работы.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/ПОВС/ПОВС (Программное обеспечение встроенных систем).md",
+                "file": "University/АКГ/Лабораторные работы.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/ПОВС/ПОВС (Программное обеспечение встроенных систем).md"
+                "file": "University/АКГ/Лабораторные работы.pdf"
               }
             }
           }
@@ -181,6 +179,7 @@
   },
   "active": "57dae0192a197ab0",
   "lastOpenFiles": [
+    "University/ПОВС/ПОВС (Программное обеспечение встроенных систем).md",
     "University/ЦОС/Шкала Децибел.md",
     "University/ЦОС/Z -1 Преобразование.md",
     "University/ЦОС/Вейвлет преобразование.md",
@@ -189,7 +188,6 @@
     "University/ЦОС/Модуляция.md",
     "University/ЦОС/Преобразование Фурье.md",
     "University/ЦОС/ЦОС (Цифровая обработка сигналов).md",
-    "University/ПОВС/ПОВС (Программное обеспечение встроенных систем).md",
     "University/ПОВС/Картинки/20230901_182239.jpg",
     "Telegram/_Inbox_.md",
     "University/ПОВС/Картинки/20231110_173945.jpg",
