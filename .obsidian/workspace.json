@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/ЦОС/1. Темы.md",
+                "file": "University/ЦОС/あ Темы.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,14 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/Задачи по физике.md",
+                "file": "University/ЦОС/あ Темы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметки/Задачи по физике.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +159,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Заметки/Задачи по физике.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Заметки/Задачи по физике.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -193,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288
+    "width": 288,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,15 +205,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "df1136a0925d4582",
+  "active": "5ea2c13f820f70d8",
   "lastOpenFiles": [
-    "Заметки/Pasted image 20231202170137.png",
-    "Заметки/Задачи по физике.md",
-    "Заметки",
+    "University/ЦОС/あ Темы.md",
     "Excalidraw/Drawing 2023-12-02 16.18.40.excalidraw.md",
-    "University/ЦОС/1. Темы.md",
+    "Заметки/Задачи по физике.md",
+    "University/САиММод/あ Темы.md",
+    "Заметки/Pasted image 20231202170137.png",
+    "Заметки",
     "Pasted Image 20231202133358_257.jpg",
-    "University/САиММод/1. Темы.md",
     "University/САиММод/Языки и системы моделирования.md",
     "University/САиММод/Имитация, исследование и контроль случайных воздействий.md",
     "Telegram/photos/photo_16046_12 - 20231202133851150.jpg",
